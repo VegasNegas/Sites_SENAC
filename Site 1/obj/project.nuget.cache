@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "HXeRubtUCZgoFVzNp934pPZDaJ7gx+ogBJ1HRGeDww9kvt7ubpiTzWUyR//LSgZUzrQW6wdcFH1cuPJ2rv6f9w==",
+  "success": true,
+  "projectFilePath": "D:\\Documentos\\Senac\\UC4\\Atividade 2\\Atividade 2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\glauc\\.nuget\\packages\\mysqlconnector\\1.2.1\\mysqlconnector.1.2.1.nupkg.sha512"
+  ],
+  "logs": []
+}

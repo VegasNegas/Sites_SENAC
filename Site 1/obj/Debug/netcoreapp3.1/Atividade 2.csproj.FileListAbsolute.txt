@@ -1,0 +1,42 @@
+D:\Documentos\Senac\UC4\Atividade 2\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Documentos\Senac\UC4\Atividade 2\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Documentos\Senac\UC4\Atividade 2\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\Documentos\Senac\UC4\Atividade 2\bin\Debug\netcoreapp3.1\Atividade 2.exe
+D:\Documentos\Senac\UC4\Atividade 2\bin\Debug\netcoreapp3.1\Atividade 2.deps.json
+D:\Documentos\Senac\UC4\Atividade 2\bin\Debug\netcoreapp3.1\Atividade 2.runtimeconfig.json
+D:\Documentos\Senac\UC4\Atividade 2\bin\Debug\netcoreapp3.1\Atividade 2.runtimeconfig.dev.json
+D:\Documentos\Senac\UC4\Atividade 2\bin\Debug\netcoreapp3.1\Atividade 2.dll
+D:\Documentos\Senac\UC4\Atividade 2\bin\Debug\netcoreapp3.1\Atividade 2.pdb
+D:\Documentos\Senac\UC4\Atividade 2\bin\Debug\netcoreapp3.1\Atividade 2.Views.dll
+D:\Documentos\Senac\UC4\Atividade 2\bin\Debug\netcoreapp3.1\Atividade 2.Views.pdb
+D:\Documentos\Senac\UC4\Atividade 2\bin\Debug\netcoreapp3.1\MySqlConnector.dll
+D:\Documentos\Senac\UC4\Atividade 2\obj\Debug\netcoreapp3.1\Atividade 2.csprojAssemblyReference.cache
+D:\Documentos\Senac\UC4\Atividade 2\obj\Debug\netcoreapp3.1\Atividade 2.AssemblyInfoInputs.cache
+D:\Documentos\Senac\UC4\Atividade 2\obj\Debug\netcoreapp3.1\Atividade 2.AssemblyInfo.cs
+D:\Documentos\Senac\UC4\Atividade 2\obj\Debug\netcoreapp3.1\Atividade 2.csproj.CoreCompileInputs.cache
+D:\Documentos\Senac\UC4\Atividade 2\obj\Debug\netcoreapp3.1\Atividade 2.MvcApplicationPartsAssemblyInfo.cache
+D:\Documentos\Senac\UC4\Atividade 2\obj\Debug\netcoreapp3.1\Atividade 2.RazorAssemblyInfo.cache
+D:\Documentos\Senac\UC4\Atividade 2\obj\Debug\netcoreapp3.1\Atividade 2.RazorAssemblyInfo.cs
+D:\Documentos\Senac\UC4\Atividade 2\obj\Debug\netcoreapp3.1\Atividade 2.TagHelpers.input.cache
+D:\Documentos\Senac\UC4\Atividade 2\obj\Debug\netcoreapp3.1\Atividade 2.TagHelpers.output.cache
+D:\Documentos\Senac\UC4\Atividade 2\obj\Debug\netcoreapp3.1\Atividade 2.RazorCoreGenerate.cache
+D:\Documentos\Senac\UC4\Atividade 2\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\Documentos\Senac\UC4\Atividade 2\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\Documentos\Senac\UC4\Atividade 2\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\Documentos\Senac\UC4\Atividade 2\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Documentos\Senac\UC4\Atividade 2\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Documentos\Senac\UC4\Atividade 2\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Documentos\Senac\UC4\Atividade 2\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Documentos\Senac\UC4\Atividade 2\obj\Debug\netcoreapp3.1\Atividade 2.RazorTargetAssemblyInfo.cache
+D:\Documentos\Senac\UC4\Atividade 2\obj\Debug\netcoreapp3.1\Atividade 2.RazorTargetAssemblyInfo.cs
+D:\Documentos\Senac\UC4\Atividade 2\obj\Debug\netcoreapp3.1\Atividade 2.Views.pdb
+D:\Documentos\Senac\UC4\Atividade 2\obj\Debug\netcoreapp3.1\Atividade 2.csproj.CopyComplete
+D:\Documentos\Senac\UC4\Atividade 2\obj\Debug\netcoreapp3.1\staticwebassets\Atividade 2.StaticWebAssets.Manifest.cache
+D:\Documentos\Senac\UC4\Atividade 2\obj\Debug\netcoreapp3.1\staticwebassets\Atividade 2.StaticWebAssets.xml
+D:\Documentos\Senac\UC4\Atividade 2\obj\Debug\netcoreapp3.1\Atividade 2.dll
+D:\Documentos\Senac\UC4\Atividade 2\obj\Debug\netcoreapp3.1\Atividade 2.pdb
+D:\Documentos\Senac\UC4\Atividade 2\obj\Debug\netcoreapp3.1\Atividade 2.genruntimeconfig.cache
+D:\Documentos\Senac\UC4\Atividade 2\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\Login.cshtml.g.cs
+D:\Documentos\Senac\UC4\Atividade 2\obj\Debug\netcoreapp3.1\Razor\Views\Home\CadastrarViagem.cshtml.g.cs
+D:\Documentos\Senac\UC4\Atividade 2\obj\Debug\netcoreapp3.1\Razor\Views\Home\Editar.cshtml.g.cs
+D:\Documentos\Senac\UC4\Atividade 2\obj\Debug\netcoreapp3.1\Razor\Views\Home\Lista.cshtml.g.cs

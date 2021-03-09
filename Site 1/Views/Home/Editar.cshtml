@@ -1,0 +1,38 @@
+@model PacotesTuristicos
+@{
+    ViewData["Title"] = "Editar";
+}
+<h2>Editar</h2>
+<form asp-action="Editar" method="POST">
+     <p>
+        <label hidden>Id</label>
+        <input asp-for="Id" hidden>
+    </p>
+    <p>
+        <label>Nome</label>
+        <input asp-for="Nome">
+    </p>
+    <p>
+        <label>Origem</label>
+        <input asp-for="Origem">
+    </p>
+    <p>
+        <label>Destino</label>
+        <input asp-for="Destino">
+    </p>
+    <p>
+        <label>Atrativos</label>
+        <input asp-for="Atrativos">
+    </p>
+    <p>
+        <label>Saida</label>
+        <input asp-for="Saida">
+    </p>
+    <p>
+        <label>Retorno</label>
+        <input asp-for="Retorno">
+    </p>
+    <p>
+        <input type="submit" value="Editar">
+    </p>
+</form>
